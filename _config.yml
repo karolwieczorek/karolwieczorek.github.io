@@ -2,11 +2,4 @@ theme: jekyll-theme-midnight
 
 # Site settings
 title: Karol Wieczorek Github
-tag_text: Wieczorek
 description: Just a place for my stuff.
-
-# Build settings
-markdown: kramdown
-exclude: ["README.md"]
-sass:
-  style: compressed
