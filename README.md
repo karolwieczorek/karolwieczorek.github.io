@@ -1,5 +1,11 @@
-## Projects
+## About
+I'm game developer from Poland. 
+My very best environment is Unity + Visual Studio. 
+Besides my job I'm trying my own projects. 
+Some you can find here and some in
+[http://hypnagogiagames.com/](http://hypnagogiagames.com/)
 
+## Projects
 
 | | |
 |-|-|
