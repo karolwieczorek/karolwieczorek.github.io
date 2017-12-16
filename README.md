@@ -3,7 +3,7 @@
 
 | | | |
 |-|-|-|
-| ![](img/Unity_Python_Console.png)](https://github.com/karolwieczorek/Unity_PythonConsole)| ![](img/Unity_Lua_Console.png)](https://github.com/karolwieczorek/Unity_LuaConsole) |
+| [![Image](img/Unity_Python_Console.png)](https://github.com/karolwieczorek/Unity_PythonConsole)| [![Image](img/Unity_Lua_Console.png)](https://github.com/karolwieczorek/Unity_LuaConsole) |
 
 ## Welcome to GitHub Pages
 
