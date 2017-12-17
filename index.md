@@ -13,4 +13,4 @@ Some you can find here and some in
 | | |
 |-|-|
 | [![Image](img/Unity_Python_Console.png)](https://github.com/karolwieczorek/Unity_PythonConsole) | [![Image](img/Unity_Lua_Console.png)](https://github.com/karolwieczorek/Unity_LuaConsole) |
-| Unity_PythonConsole <br/> [Github](https://github.com/karolwieczorek/Unity_PythonConsole) | Unity_LuaConsole <br/> [Github](https://github.com/karolwieczorek/Unity_LuaConsole) - [WebGL](https://karolwieczorek.github.io/LuaConsole/index.html) - [help](https://karolwieczorek.github.io/Projects/PythonConsole/help) |
+| Unity_PythonConsole <br/> [Github](https://github.com/karolwieczorek/Unity_PythonConsole) - [help](https://karolwieczorek.github.io/Projects/PythonConsole/help) | Unity_LuaConsole <br/> [Github](https://github.com/karolwieczorek/Unity_LuaConsole) - [WebGL](https://karolwieczorek.github.io/LuaConsole/index.html) |
