@@ -5,15 +5,11 @@ permalink: /about/
 
 @import "{{ site.theme }}";
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## About me
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm game developer from Poland. <br/>
+My very best environment is Unity + Visual Studio. <br/>
+Besides my job I do my own projects. <br/>
+Some you can find here and some in
+[http://hypnagogiagames.com/](http://hypnagogiagames.com/)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
